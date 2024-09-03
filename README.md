@@ -1,6 +1,6 @@
 ## Hi there, I'm Fransiskus Xaverius Ananda Tri Prasetio 👋
 
-Welcome to my GitHub profile! I'm a passionate mobile developer specializing in Flutter, as well as native Android and iOS development. I love building innovative solutions and contributing to exciting projects. Below you’ll find some of the projects I've worked on and a bit about my professional journey.
+Welcome to my GitHub profile! I'm a passionate mobile developer specializing in Flutter and Native Android & iOS Development. I love building innovative solutions and contributing to exciting projects. Below you’ll find some of the projects I've worked on and a bit about my professional journey.
 
 ### 🔧 Technologies & Tools
 - Languages: Dart, Java, Kotlin, Swift, Objective-C
