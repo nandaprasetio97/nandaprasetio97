@@ -87,6 +87,9 @@ experimentation and ongoing development
 #### Email
 nandaprasesoft98@gmail.com
 
+#### Web
+https://nandaprasesoft98.vercel.app/
+
 #### CV
 https://drive.google.com/file/d/1u29EnmnNlPWOOFY9tFIe9WFfLDK98SnJ/view?usp=sharing
 
